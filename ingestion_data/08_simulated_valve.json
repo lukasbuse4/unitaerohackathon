@@ -1,0 +1,27 @@
+{
+    "1_Approving_Civil_Aviation_Authority_Country": "FAA/United States",
+    "2_Title": "AUTHORIZED RELEASE CERTIFICATE",
+    "3_Form_Tracking_Number": "5553054",
+    "4_Organization_Name_and_Address": "F. J. Turbine Power, Inc. - PIT, 303 Oshkosh Dr., Bld 1110, Findlay TWP, PA 15231 (FAA Approved Repair Station F7JD192Y)",
+    "5_Work_Order_Contract_Invoice_Number": "5553054/989019",
+    "6_Item": "8",
+    "7_Description": "VALVE",
+    "8_Part_Number": "VAL-284-B",
+    "9_Quantity": "1",
+    "10_Serial_Number": "536-770",
+    "11_Status_Work": "REPAIRED",
+    "12_Remarks": "ACCOMPLISHED REPAIRED OF VALVE AS PER CMM 62-22-8. CLEANED AND NDT INSPECTED PER SHOP MANUAL REV 76. REPLACED CONSUMABLES. BENCH TEST PERFORMED SATISFACTORILY. DETAILS OF WORK ON FILE UNDER W/O #5553054. TSN: 23336. CSN: 13576.",
+    "13a_Certifies_Items_Manufactured_In_Conformance": {
+        "Approved_Design_Data": false,
+        "Non_Approved_Design_Data": false
+    },
+    "14a_Return_To_Service": {
+        "14_CFR_43_9_Return_To_Service": true,
+        "Other_Regulation_Specified_In_Block_12": false
+    },
+    "14b_Authorized_Signature": "Signed",
+    "14c_Approval_Certificate_No": "F7JD192Y",
+    "14d_Name": "DAVID CHEN",
+    "14e_Date": "22/NOV/2023",
+    "15_Price": "$7,291.13"
+}

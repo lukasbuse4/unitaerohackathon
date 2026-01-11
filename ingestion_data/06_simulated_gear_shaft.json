@@ -1,0 +1,27 @@
+{
+    "1_Approving_Civil_Aviation_Authority_Country": "FAA/United States",
+    "2_Title": "AUTHORIZED RELEASE CERTIFICATE",
+    "3_Form_Tracking_Number": "5551627",
+    "4_Organization_Name_and_Address": "F. J. Turbine Power, Inc. - PIT, 303 Oshkosh Dr., Bld 1110, Findlay TWP, PA 15231 (FAA Approved Repair Station F7JD192Y)",
+    "5_Work_Order_Contract_Invoice_Number": "5551627/960382",
+    "6_Item": "6",
+    "7_Description": "GEAR SHAFT",
+    "8_Part_Number": "GEA-752-A",
+    "9_Quantity": "1",
+    "10_Serial_Number": "380-369",
+    "11_Status_Work": "INSPECTED",
+    "12_Remarks": "ACCOMPLISHED INSPECTED OF GEAR SHAFT AS PER CMM 30-42-8. CLEANED AND NDT INSPECTED PER SHOP MANUAL REV 72. REPLACED CONSUMABLES. BENCH TEST PERFORMED SATISFACTORILY. DETAILS OF WORK ON FILE UNDER W/O #5551627. TSN: 46215. CSN: 9390.",
+    "13a_Certifies_Items_Manufactured_In_Conformance": {
+        "Approved_Design_Data": false,
+        "Non_Approved_Design_Data": false
+    },
+    "14a_Return_To_Service": {
+        "14_CFR_43_9_Return_To_Service": true,
+        "Other_Regulation_Specified_In_Block_12": false
+    },
+    "14b_Authorized_Signature": "Signed",
+    "14c_Approval_Certificate_No": "F7JD192Y",
+    "14d_Name": "LISA WONG",
+    "14e_Date": "30/OCT/2023",
+    "15_Price": "$37,175.80"
+}

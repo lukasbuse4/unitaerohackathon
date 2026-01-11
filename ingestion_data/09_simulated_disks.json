@@ -1,0 +1,27 @@
+{
+    "1_Approving_Civil_Aviation_Authority_Country": "FAA/United States",
+    "2_Title": "AUTHORIZED RELEASE CERTIFICATE",
+    "3_Form_Tracking_Number": "5558728",
+    "4_Organization_Name_and_Address": "F. J. Turbine Power, Inc. - PIT, 303 Oshkosh Dr., Bld 1110, Findlay TWP, PA 15231 (FAA Approved Repair Station F7JD192Y)",
+    "5_Work_Order_Contract_Invoice_Number": "5558728/975323",
+    "6_Item": "9",
+    "7_Description": "DISKS",
+    "8_Part_Number": "DIS-163-B",
+    "9_Quantity": "1",
+    "10_Serial_Number": "634-830",
+    "11_Status_Work": "INSPECTED",
+    "12_Remarks": "ACCOMPLISHED INSPECTED OF DISKS AS PER CMM 47-18-3. CLEANED AND NDT INSPECTED PER SHOP MANUAL REV 47. REPLACED CONSUMABLES. BENCH TEST PERFORMED SATISFACTORILY. DETAILS OF WORK ON FILE UNDER W/O #5558728. TSN: 3857. CSN: 3164.",
+    "13a_Certifies_Items_Manufactured_In_Conformance": {
+        "Approved_Design_Data": false,
+        "Non_Approved_Design_Data": false
+    },
+    "14a_Return_To_Service": {
+        "14_CFR_43_9_Return_To_Service": true,
+        "Other_Regulation_Specified_In_Block_12": false
+    },
+    "14b_Authorized_Signature": "Signed",
+    "14c_Approval_Certificate_No": "F7JD192Y",
+    "14d_Name": "SARAH JENKINS",
+    "14e_Date": "26/APR/2023",
+    "15_Price": "$213,458.80"
+}
